@@ -1,0 +1,12 @@
+{
+  "name": "zest",
+  "directories": {
+    "lib": "zest",
+    "dist": "dist"
+  },
+  "configFile": "config.js",
+  "registry": "jspm",
+  "buildConfig": {
+    "transpile": true
+  }
+}
